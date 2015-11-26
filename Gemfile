@@ -15,6 +15,8 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin]
 gem 'devise', '~> 3.5', '>= 3.5.2'
 gem 'paperclip', '~> 4.3', '>= 4.3.2'
 gem 'masonry-rails', '~> 0.2.4'
+gem 'will_paginate', '~> 3.0', '>= 3.0.7'
+gem 'bootstrap-will_paginate', '~> 0.0.10'
 
 
 
